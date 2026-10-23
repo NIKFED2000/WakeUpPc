@@ -1,6 +1,6 @@
 # WakeUpPc
-This program can handle the daily routine of powering on a large fleet of computers on a local network by using the devices MAC addresses.
-## Setup instructions
+This project automates the daily powering on of a large fleet of computers across a local network using device MAC addresses via **WOL (Wake-on-LAN)** technology.
+## Setup Guide
 ### 1. How to find the MAC address in Windows
 To find a device's address within a local network, you need to enter a simple command into the CMD or PowerShell shell in Windows.
 ```powershell
